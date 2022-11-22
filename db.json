@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {"id": 1, "title": "Fake Json 1", "desc": "for Json 1 and this data 1"},
+    {"id": 2, "title": "Fake Json 2", "desc": "for Json 1 and this data 2"},
+    {"id": 3, "title": "Fake Json 3", "desc": "for Json 1 and this data 3"}
+    ],
+  "any suggest": [
+    {"id": 1, "body": "suggest 1", "postsId": 1},
+    {"id": 2, "body": "suggest 2", "postsId": 2}
+    ],
+  "Profile: {
+  "Name ": "Profile Salman"
+}
+}
