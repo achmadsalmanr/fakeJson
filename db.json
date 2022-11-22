@@ -8,7 +8,7 @@
     {"id": 1, "body": "suggest 1", "postsId": 1},
     {"id": 2, "body": "suggest 2", "postsId": 2}
     ],
-  "Profile: {
+  "Profile": {
   "Name ": "Profile Salman"
 }
 }
