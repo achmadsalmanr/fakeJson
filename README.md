@@ -1,2 +1,2 @@
 # fakeJson
-for fake Testing using Json
+for fake API Testing
