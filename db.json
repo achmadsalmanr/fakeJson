@@ -6,7 +6,7 @@
     ],
   "any suggest": [
     {"id": 1, "body": "suggest 1", "postsId": 1},
-    {"id": 2, "body": "suggest 2", "postsId": 2}
+    {"id": 2, "body": "suggest 2", "postsId": 1}
     ],
   "Profile": {
   "Name ": "Profile Salman"
